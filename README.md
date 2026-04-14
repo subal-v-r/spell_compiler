@@ -371,7 +371,7 @@ spell_compiler/
 
 ## 👨‍💻 Author
 
-**Subal** — Semester 6, Compiler Design Project  
+**Subal V R**
 *April 2026*
 
 ---
